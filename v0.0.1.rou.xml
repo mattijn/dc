@@ -1,0 +1,8 @@
+<routes>
+	<vType accel="1.0" decel="5.0" id="Ship_slow" length="2.0" maxSpeed="100.0" sigma="0.0" />
+	<vType accel="2.0" decel="5.0" id="Ship_fast" length="2.0" maxSpeed="200.0" sigma="0.0" />	
+	<route id="routeA" edges="PIZtoLKD LKDtoGMC GMCtoHPT HPTtoSIJ SIJtoNZN" />
+	
+	<vehicle depart="1" id="shp0" route="routeA" type="Ship_slow" />
+	<vehicle depart="25" id="shp1" route="routeA" type="Ship_fast" />
+</routes>

@@ -1,0 +1,22 @@
+<edges>
+	<edge from="PIZ" id="PIZtoLKD" to="LKD" />
+	<edge from="PBS" id="PBStoLKD" to="LKD" />
+	<edge from="LKD" id="LKDtoGMC" to="GMC" />
+	<edge from="OSZ" id="OSZtoGMC" to="GMC" />
+	<edge from="GMC" id="GMCtoHPT" to="HPT" />
+	<edge from="HHN" id="HHNtoHPT" to="HPT" />
+	<edge from="HPT" id="HPTtoSIJ" to="SIJ" />
+	<edge from="SIJ" id="SIJtoNZN" to="NZN" />
+	<edge from="SIJ" id="SIJtoNZW" to="NZW" />
+	<edge from="SIJ" id="SIJtoNZZ" to="NZZ" />
+	<edge to="PIZ" id="LKDtoPIZ" from="LKD" />
+	<edge to="PBS" id="LKDtoPBS" from="LKD" />
+	<edge to="LKD" id="GMCtoLKD" from="GMC" />
+	<edge to="OSZ" id="GMCtoOSZ" from="GMC" />
+	<edge to="GMC" id="HPTtoGMC" from="HPT" />
+	<edge to="HHN" id="HPTtoHHN" from="HPT" />
+	<edge to="HPT" id="SIJtoHPT" from="SIJ" />
+	<edge to="SIJ" id="NZNtoSIJ" from="NZN" />
+	<edge to="SIJ" id="NZWtoSIJ" from="NZW" />
+	<edge to="SIJ" id="NZZtoSIJ" from="NZZ" />	
+</edges>

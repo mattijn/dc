@@ -1,0 +1,13 @@
+<nodes>
+  <node id="OSZ" x="125834.83852422072" y="488097.9603182094"/>  <!-- OSZ : Oranjesluizen -->
+  <node id="PIZ" x="150411.48229723892" y="442071.74998949823"/> <!-- PIZ : Pr. Irenesluizen -->
+  <node id="SIJ" x="101919.03922584091" y="497952.3548312712"/>  <!-- SIJ : Sluizen van IJmuiden -->
+  <node id="PBS" x="135991.09351610707" y="447344.51527389255"/> <!-- PBS : Pr. Beatrixsluizen -->	
+  <node id="LKD" x="136165.27718886" y="449874.77603997145"/>    <!-- LKD : Lekkanaaldijk -->
+  <node id="GMC" x="125097.11133994945" y="487542.1432209603"/>  <!-- GMC : Gingermood Coachmatchers -->
+  <node id="HPT" x="115715.02955496815" y="492642.21309771115"/> <!-- HPT : Hemspoorttunnel -->	
+  <node id="HHN" x="115956.43341168977" y="489974.14888488414"/> <!-- HHN : Hornhaven -->
+  <node id="NZW" x="28392.35379833178" y="505374.47147953056"/>  <!-- NZW : Noordzee west -->
+  <node id="NZN" x="71485.07769248312" y="561775.994354166"/>    <!-- NZN : Noordzee noord -->
+  <node id="NZZ" x="-19654.88357901157" y="457201.441553026"/>   <!-- NZZ : Noordzee zuid -->	
+</nodes>
